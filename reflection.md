@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+This assignment was a great opportunity to start visualizing object-oriented programming, and I found it really helpful to physically map out all of the attributes and methods. I wrote out all of the attributes I wanted to include based on the procedural class, and then I color-coded them based on whether they belonged to the computer class or the resale shop class (or both). Then, I did the same for the methods until I clearly understood how my separate classes would divide up the responsibilities of the procedural class. I had trouble making use of the main method and being able to run my methods, but I think this is just due to me being rusty with Python. If I had more time, I would add additional methods and figure out how to cross-reference the classes (like I would for a Java object-oriented assignment), since there is a lot of interaction between the computer class and the resale class.
