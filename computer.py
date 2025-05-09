@@ -54,8 +54,11 @@ class Computer:
         
 
     def main():
-        pass
+       if __name__ == "__main__":
+        myMac = Computer(12345, 2000, 200, "MacOS", 2008, "Sierra")
+        myMac.refurbish()
+
     main()
-    refurbish(12345, 2004, 1200, "MacOS", "Sierra")
+    
 
         

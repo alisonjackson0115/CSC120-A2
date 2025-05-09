@@ -45,5 +45,8 @@ class ResaleShop:
             print("No inventory to display.")
 
     def main():
-        pass
+       if __name__ == "__main__":
+        myShop = ResaleShop(["Mac"], {"description":"description"}, 12345)
+        myShop.sell()
+
     main()
